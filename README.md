@@ -28,4 +28,6 @@ ___Completando la función___
 9. DIVIDIR RESULTADO DE SUMA ENTRE "3"		
 10. IMPRIMIR RESULTADO		
 11. FIN
+
+![alt text](http://i63.tinypic.com/2ey9isk.jpg)
 			
